@@ -31,10 +31,11 @@ We’ve got you covered. With this simple but powerful child theme you can get s
 
 ### Ability to create a demo website with data with a single click. 
 This gives you a big headstart, and now you can start customizing your website. You get 6 pre-built pages.
-Home Page – Contains hero section, showcase video, rooms listing grid, testimonials and FAQs
-Our Place – Details the amenities available on the property and related FAQs.
-Our Menu – Lists the food menu.
-Rooms – Listings the available rooms in an image grid. Testimonials and FAQs to add credibility.
-Gallery – Image gallery page showcases various aspects of the property. Includes an 360 deg virtual reality images of the rooms.
-Contact Us – A page with address, contact details and a web form.
-All pages includes a responsive menu and a top navbar with a list of the social media assets.
+
+* Home Page – Contains hero section, showcase video, rooms listing grid, testimonials and FAQs
+* Our Place – Details the amenities available on the property and related FAQs.
+* Our Menu – Lists the food menu.
+* Rooms – Listings the available rooms in an image grid. Testimonials and FAQs to add credibility.
+* Gallery – Image gallery page showcases various aspects of the property. Includes an 360 deg virtual reality images of the rooms.
+* Contact Us – A page with address, contact details and a web form.
+* All pages includes a responsive menu and a top navbar with a list of the social media assets.
