@@ -108,9 +108,9 @@ function ocdi_import_files()
         array(
             'import_file_name'           => 'Divi Bed & Breakfast Child Theme Import',
             'categories' => array('Divi Bed & Breakfast Child Theme Import'),
-            'import_file_url'            =>  get_template_directory_uri() . '/data/content.xml',
-            'import_widget_file_url'     =>  get_template_directory_uri() . '/data/widgets.wie',
-            'import_customizer_file_url' =>  get_template_directory_uri() . '/data/customizer.dat',
+            'import_file_url'            =>  get_stylesheet_directory_uri() . '/data/content.xml',
+            'import_widget_file_url'     =>  get_stylesheet_directory_uri() . '/data/widgets.wie',
+            'import_customizer_file_url' =>  get_stylesheet_directory_uri() . '/data/customizer.dat',
             'import_notice' => __('Please wait for a few minutes. Do not close the window or refresh the page until the data is imported.', 'your_theme_name'),
 
         ),
