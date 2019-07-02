@@ -1,0 +1,36 @@
+{
+  "name": "bed-n-breakfast-child-theme",
+  "version": "0.1.2",
+  "description": "Child theme template for Divi",
+  "main": "Gruntfile.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elegantthemes/bed-n-breakfast-child-theme.git"
+  },
+  "author": "Andy Tran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/elegantthemes/bed-n-breakfast-child-theme/issues"
+  },
+  "homepage": "https://github.com/elegantthemes/bed-n-breakfast-child-theme#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^4.0.0",
+    "gulp-crash-sound": "^1.0.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp-watch": "^4.3.11"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "divi",
+    "child",
+    "theme",
+    "gulp",
+    "tasks"
+  ]
+}
