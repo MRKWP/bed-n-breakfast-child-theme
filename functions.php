@@ -41,8 +41,8 @@ if (is_admin()) {
         ],
         [
             'name'     => 'Extra Icons Plugin for Divi',
-            'slug'     => 'mrkwp-extra-icons-divi/mrkwp-extra-icons-divi.php',
-            'url'      => 'https://wordpress.org/plugins/mrkwp-extra-icons-divi',
+            'slug'     => 'mrkwp-extra-icons-for-divi/mrkwp-extra-icons-for-divi.php',
+            'url'      => 'https://wordpress.org/plugins/mrkwp-extra-icons-for-divi',
             'trial' => false,
         ],
         [
